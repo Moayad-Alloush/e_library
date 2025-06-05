@@ -2,7 +2,6 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
 // Make sure 'your_project_name_here' matches the 'name:' in your pubspec.yaml
-import 'package:e_library/models/user.dart';
 import 'package:e_library/models/book.dart';
 import 'package:e_library/models/author.dart';
 import 'package:e_library/models/publisher.dart';
